@@ -1,0 +1,29 @@
+{
+  "name": "rn-light-tooltip",
+  "version": "1.0.0",
+  "description": "A light and customizable tooltip component for React Native",
+  "keywords": [
+    "tooltip",
+    "light tooltip",
+    "react native",
+    "react native tooltip"
+  ],
+  "homepage": "https://github.com/JosueInitDev/rn-light-tooltip#readme",
+  "bugs": {
+    "url": "https://github.com/JosueInitDev/rn-light-tooltip/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosueInitDev/rn-light-tooltip.git"
+  },
+  "license": "MIT",
+  "author": "Darius",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-modal": "^14.0.0-rc.1"
+  }
+}
